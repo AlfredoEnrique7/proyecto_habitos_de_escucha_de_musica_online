@@ -52,5 +52,5 @@ Para responder a la pregunta central del proyecto sobre si el comportamiento de 
 * Jupyter Notebook
 
 ## Ver el análisis completo
-👉 [Haz clic aquí para ver el código y los gráficos interactivos](proyecto_hábitos_de escucha_de_música_online.ipynb)
+👉 [Haz clic aquí para ver el código y los gráficos interactivos](proyecto_habitos_de escucha_de_musica_online.ipynb)
 
